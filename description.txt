@@ -1,0 +1,2 @@
+Adds board-pieces and playing stones for the Royal Game of Ur.
+Check:  https://en.wikipedia.org/wiki/Royal_Game_of_Ur for Info on the game itself.
